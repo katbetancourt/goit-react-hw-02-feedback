@@ -1,0 +1,16 @@
+/* ContactList.module.css */
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+button {
+  background-color: #ff5252;
+  color: white;
+  padding: 5px;
+  cursor: pointer;
+}

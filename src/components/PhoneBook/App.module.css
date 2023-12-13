@@ -1,0 +1,15 @@
+/* App.module.css */
+div {
+  max-width: 600px;
+  margin: 0 auto;
+  
+}
+
+h1 {
+  color: black;
+  font-size: 20px;  
+}
+
+h2 {
+  color: #555;
+}
